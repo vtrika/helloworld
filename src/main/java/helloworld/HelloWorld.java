@@ -10,4 +10,8 @@ public class HelloWorld {
   public void method1() {
     // placeholder method
   }
+  
+  public void method1(String s1) throws Exception {
+    // TODO implement
+  }
 }
