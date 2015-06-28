@@ -6,4 +6,8 @@ public class HelloWorld {
     // print
     System.out.println("Hello World!!");
   }
+  
+  public void method1() {
+    // placeholder method
+  }
 }
